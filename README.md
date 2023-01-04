@@ -22,4 +22,4 @@ The difference between the client's time and the actual time is at most **(T1 - 
 
 # Observations
 
-We observed that the error between the actual time at client and the synchronized client time is usually within -10 to +10 milliseconds which is relatively low indicating that Cristian algorithm is working correctly.
+We observed that the error between the actual time at client and the synchronized client time is usually within **-10 to +10 milliseconds** which is relatively low indicating that Cristian algorithm is working correctly.
